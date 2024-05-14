@@ -1,1 +1,1 @@
-Este es el archivo de "ejercicio git"
+Este es el archivo de "ejercicio git" del proyecto ejercicio_git
